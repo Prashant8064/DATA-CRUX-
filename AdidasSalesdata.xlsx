@@ -1,0 +1,4 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Gender Type,Product Category,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method,Month_Year
+Retailer A,101,2024-01-01,West,California,Los Angeles,Unisex,Street Footwear,100,500,50000,15000,30.0,Online,2024-01
+Retailer B,102,2024-01-02,South,Texas,Houston,Male,Apparel,50,300,15000,4500,30.0,In-store,2024-02
+Retailer C,103,2024-01-03,Northeast,New York,New York City,Female,Athletic Footwear,120,400,48000,14000,29.2,Outlet,2024-03
